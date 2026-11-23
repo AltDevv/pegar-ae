@@ -1,5 +1,6 @@
 /target/
-/data/
+/data/*
+!/data/arquivos/
 /logs/*
 !/logs/.gitkeep
 /src/main/resources/application.properties

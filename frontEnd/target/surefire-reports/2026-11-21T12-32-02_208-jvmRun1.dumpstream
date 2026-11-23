@@ -1,0 +1,33 @@
+# Created at 2026-11-21T12:32:05.754
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Downloading Chrome for Testing 156.0.8078.4 (playwright chromium v1248)[2m from https://cdn.playwright.dev/builds/cft/156.0.8078.4/win64/chrome-win64.zip[22m'.
+
+# Created at 2026-11-21T12:32:06.070
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Downloading Chrome for Testing 156.0.8078.4 (playwright chromium v1248)[2m from https://cdn.playwright.dev/builds/cft/156.0.8078.4/win64/chrome-win64.zip[22m'.
+
+# Created at 2026-11-21T12:32:06.397
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Downloading Chrome for Testing 156.0.8078.4 (playwright chromium v1248)[2m from https://cdn.playwright.dev/builds/cft/156.0.8078.4/win64/chrome-win64.zip[22m'.
+
+# Created at 2026-11-21T12:32:06.721
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Downloading Chrome for Testing 156.0.8078.4 (playwright chromium v1248)[2m from https://cdn.playwright.dev/builds/cft/156.0.8078.4/win64/chrome-win64.zip[22m'.
+
+# Created at 2026-11-21T12:32:07.032
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Downloading Chrome for Testing 156.0.8078.4 (playwright chromium v1248)[2m from https://cdn.playwright.dev/builds/cft/156.0.8078.4/win64/chrome-win64.zip[22m'.
+
+# Created at 2026-11-21T12:32:07.343
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Failed to install browsers'.
+
+# Created at 2026-11-21T12:32:07.344
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Error: Failed to download Chrome for Testing 156.0.8078.4 (playwright chromium v1248), caused by'.
+
+# Created at 2026-11-21T12:32:07.344
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Error: Download failure, code=1'.
+
+# Created at 2026-11-21T12:32:07.345
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '    at ChildProcess.<anonymous> (C:\Users\User\AppData\Local\Packages\openai.codex_2p2nqsd0c76g0\AC\#!sandbox.{1c078a48-e217-45b9-aaad-27a1c18e159e}\Temp\playwright-java-9473498768006096851\package\lib\coreBundle.js:33774:32)'.
+
+# Created at 2026-11-21T12:32:07.346
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '    at ChildProcess.emit (node:events:514:28)'.
+
+# Created at 2026-11-21T12:32:07.347
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '    at ChildProcess._handle.onexit (node:internal/child_process:324:12)'.
+

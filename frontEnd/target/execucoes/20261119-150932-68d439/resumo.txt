@@ -1,0 +1,20 @@
+﻿
+LIBTECA - frontEnd - EXECUÇÃO CONCLUÍDA
+Duração total: 52,9s | Código Maven: 0
+Total: 10 | Aprovados: 10 | Falhas: 0 | Erros: 0 | Ignorados: 0
+
+com.libteca.FrontendPlaywrightTests
+  [APROVADO] permissao Do Leitor (3.288s)
+  [APROVADO] cadastrar Categoria (3.735s)
+  [APROVADO] aprovar Funcionario (8.182s)
+  [APROVADO] menu Mobile (2.991s)
+  [APROVADO] cadastro De Leitor (2.399s)
+  [APROVADO] senha Incorreta (2.078s)
+  [APROVADO] sair Da Conta (2.433s)
+  [APROVADO] buscar Livro (2.16s)
+  [APROVADO] busca Sem Resultado (1.756s)
+  [APROVADO] emprestimo Fisico (3.914s)
+
+Ignorado não significa aprovado. O motivo aparece nos detalhes quando informado pelo executor.
+Relatório HTML: C:\Users\User\IdeaProjects\libTeca\frontEnd\target\execucoes\20261119-150932-68d439\index.html
+Log completo: C:\Users\User\IdeaProjects\libTeca\frontEnd\target\execucoes\20261119-150932-68d439\maven.log

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.libteca.FrontendPlaywrightTests
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 44.99 s -- in com.libteca.FrontendPlaywrightTests
